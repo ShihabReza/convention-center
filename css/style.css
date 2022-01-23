@@ -1,4 +1,24 @@
-.bg-pictur{
-    background-image: url(".images/6368377.jpg");
-    background-repeat: no-repeat;
+/* google-font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bbcr{
+    background-color: #e7e3ec;
+    color: #2365c9;
+}
+.pclr{
+    
+}
+.fulpac{
+    transition:background-color 1s;
+    transition: transform 1s;
+    padding:20px;
+}
+.fulpac:hover{
+    background-color:#2365c9;
+    color: #fff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    transform: scale(1.1);
 }
