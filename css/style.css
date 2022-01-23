@@ -30,3 +30,9 @@ body{
     font-weight: 500;
     font-weight:bold;
 }
+.store-apps{
+    margin-top:100px;
+    background-color: black;
+    color: #fff;
+    height: 300px
+}
