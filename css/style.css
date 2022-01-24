@@ -13,7 +13,7 @@ body{
 }
 .fulpac{
     transition:background-color 1s;
-    transition: transform 1s;
+    transition: transform 1.5s;
     padding:20px;
 }
 .fulpac:hover{
@@ -35,4 +35,8 @@ body{
     background-color: black;
     color: #fff;
     height: 300px
+}
+li{
+    list-style: none;
+
 }
